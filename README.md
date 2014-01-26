@@ -14,3 +14,9 @@ Secondary goals
 
 - Generate machine-readable data to represent any actors’ political opinions.
 - Facilitate citizen engagement by lowering the cost of developing new political software.
+
+
+Versioning
+----------
+
+This schema follows the [SemVer](http://semver.org) versioning pattern.
