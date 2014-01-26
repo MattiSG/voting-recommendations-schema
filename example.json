@@ -1,0 +1,32 @@
+{
+	"properties":{
+		"name": "Climate policy",
+		"author": {
+			"fn": "John Doe"
+		},
+		"timestamp": 1390750432,
+		"requester": {
+			"org": {
+				"organizationName": "Tech to the People"
+			}
+		},
+		"recommendations": {
+			"Recital G, AMC 11": {
+				"vote": "against",
+				"weight": 0.5,
+				"remarks": "If adopted, go to AM 31."
+			},
+			"Recital G, AMC 26": {
+				"vote": "for",
+				"remarks": "Identical, deletion. Falls if AMC 11 is adopted. If adopted go to AM 31."
+			},
+			"Recital G, AMC 30": {
+				"vote": "for",
+				"remarks": "Falls if AMC 11 or AM 26/27 are adopted."
+			},
+			"Recital G, AMC 33": {
+				"remarks": "If adopted, go to Oral AM 2."
+			}
+		}
+	}
+}
